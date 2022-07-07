@@ -1,16 +1,12 @@
-# g_d
+<H1>QUIZ APP</H1>
+<p>This is my first flutter project that is about a quiz game with 4 mcq questions</p>
+<p>
+![icon](https://user-images.githubusercontent.com/93351450/177839746-c697205f-483f-470d-90f5-eb0e26fd3fc6.jpeg)
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/93351450/177839753-f11d7669-6fad-4358-9b19-635ac188aaae.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/93351450/177839762-4217411a-69cf-4a35-b28a-15e21f0cd9c5.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
