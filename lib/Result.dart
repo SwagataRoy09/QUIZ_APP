@@ -34,22 +34,6 @@ class _ResultState extends State<Result> {
                   blurRadius:10,
                 )])),
                 SizedBox(height:450.0),
-                Align(
-                  alignment:Alignment.bottomLeft,
-                  child:IconButton(
-                    padding: EdgeInsets.only(left:30),
-                    onPressed: () {
-                      Navigator.pop(context,
-                          MaterialPageRoute(builder: (context) => HOME()));
-                    },
-                    icon: Icon(Icons.home, color: Colors.amberAccent, shadows: [
-                      Shadow(
-                          color: Colors.tealAccent.withOpacity(.4),
-                          offset: Offset(3, 3),
-                          blurRadius: 8)
-                    ]),
-                  ),
-                )
                 ],
             ),
           ),
