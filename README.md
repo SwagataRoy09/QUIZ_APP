@@ -24,3 +24,7 @@ is made using **animated_splash_screen**.
 
 <a href="https://postimg.cc/9rc2H1xC" target="_blank"><img src="https://i.postimg.cc/9rc2H1xC/1.jpg" alt="1"/></a> <a href="https://postimg.cc/xkND3Zdy" target="_blank"><img src="https://i.postimg.cc/xkND3Zdy/2.jpg" alt="2"/></a> <a href="https://postimg.cc/sMNCSz3g" target="_blank"><img src="https://i.postimg.cc/sMNCSz3g/3.jpg" alt="3"/></a><br/><br/>
 <a href="https://postimg.cc/8J88KbJ8" target="_blank"><img src="https://i.postimg.cc/8J88KbJ8/4.jpg" alt="4"/></a> <a href="https://postimg.cc/MnT8vH2L" target="_blank"><img src="https://i.postimg.cc/MnT8vH2L/5.jpg" alt="5"/></a> 
+
+## Author
+ 
+ You can give your reviews or connect to author through :  https://www.linkedin.com/in/swagataroy09/
